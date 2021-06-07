@@ -3,7 +3,7 @@ Solaris is a Lending/Borrowing protocol that brings Flashloans to Solana blockch
 The project is a modification of the [solana lending program](https://github.com/solana-labs/solana-program-library)
 
 ## How it works
-<img width="1920" alt="image" src="">
+<img width="1920" alt="image" src="https://raw.githubusercontent.com/solaris-protocol/solaris-protocol/master/howitworks.png">
 
 ## On-Chain Programs
 
