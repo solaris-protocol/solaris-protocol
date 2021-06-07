@@ -5,13 +5,13 @@ The project is a modification of the [solana lending program](https://github.com
 ## How it works
 
 
-### On-Chain Programs
+## On-Chain Programs
 
 | Cluster | Program Address |
 | --- | --- |
 | Devnet | [`6h5geweHee42FbxZrYAcYJ8SGVAjG6sGow5dtzcKtrJw`](https://explorer.solana.com/address/6h5geweHee42FbxZrYAcYJ8SGVAjG6sGow5dtzcKtrJw?cluster=devnet) |
 
-### Quick Links
+## Quick Links
 
 #### [Live Demo on devnet](https://solarisprotocol.com/)
 #### [Solaris UI](https://github.com/solaris-protocol/solaris-ui)
