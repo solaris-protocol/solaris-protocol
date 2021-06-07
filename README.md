@@ -1,15 +1,13 @@
-# Token-lending program
+## Project description
+Solaris is a Lending/Borrowing protocol that brings Flashloans to Solana blockchain (inspired by Aave and Compound)
+The project is a modification of the (solana lending program)[https://github.com/solana-labs/solana-program-library]
 
-A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound.
 
-Full documentation is available at https://spl.solana.com/token-lending
+## How it works
 
-Web3 bindings are available in the `./js` directory.
 
 ### On-Chain Programs
 
 | Cluster | Program Address |
 | --- | --- |
-| Mainnet Beta | [`LendZqTs8gn5CTSJU1jWKhKuVpjJGom45nnwPb2AMTi`](https://explorer.solana.com/address/LendZqTs7gn5CTSJU1jWKhKuVpjJGom45nnwPb2AMTi) |
-| Testnet | [`LendZqTs8gn5CTSJU1jWKhKuVpjJGom45nnwPb2AMTi`](https://explorer.solana.com/address/LendZqTs8gn5CTSJU1jWKhKuVpjJGom45nnwPb2AMTi?cluster=testnet) |
-| Devnet | [`LendZqTs8gn5CTSJU1jWKhKuVpjJGom45nnwPb2AMTi`](https://explorer.solana.com/address/LendZqTs8gn5CTSJU1jWKhKuVpjJGom45nnwPb2AMTi?cluster=devnet) |
+| Devnet | [`6h5geweHee42FbxZrYAcYJ8SGVAjG6sGow5dtzcKtrJw`](https://explorer.solana.com/address/6h5geweHee42FbxZrYAcYJ8SGVAjG6sGow5dtzcKtrJw?cluster=devnet) |
